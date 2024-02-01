@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          도커 컴포즈를 적용
+          learn react
         </a>
       </header>
     </div>
